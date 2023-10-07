@@ -13,6 +13,7 @@
 
 /* Estilos generales para el cuerpo del documento */
 body {
+    overflow-x: hidden; /* Bloquea el desplazamiento horizontal en el cuerpo del documento */
     background: #00c9ff;
     color: var(--color-white);
     font-family: "Noto Sans", sans-serif;
